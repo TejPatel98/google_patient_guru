@@ -1,0 +1,24 @@
+[
+  {
+    "id": "44a50117-2378-495e-bfa1-87bdd26eeed9",
+    "data": [
+      {
+        "text": "tell me a little more about your ",
+        "userDefined": false
+      },
+      {
+        "text": "Cough",
+        "alias": "symptoms",
+        "meta": "@symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", is that all thats bothering you or is there something else as well ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538254572
+  }
+]

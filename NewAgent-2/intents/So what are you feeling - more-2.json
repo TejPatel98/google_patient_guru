@@ -1,0 +1,45 @@
+{
+  "id": "d2e127f2-910d-4466-ae02-9bd1aa703c91",
+  "parentId": "58aa786c-14b8-49bd-9f82-d1194202c8f8",
+  "rootParentId": "58aa786c-14b8-49bd-9f82-d1194202c8f8",
+  "name": "So what are you feeling - more-2",
+  "auto": true,
+  "contexts": [
+    "Sowhatareyoufeeling-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Sowhatareyoufeeling.Sowhatareyoufeeling-more-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8bd79b53-fd28-44dc-ab60-4a0458217668",
+          "required": false,
+          "dataType": "@symptoms",
+          "name": "symptoms",
+          "value": "$symptoms",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I have areas with redness. nothing more.",
+            "I have areas with redness and feel warm skin in those areas"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538257243,
+  "fallbackIntent": false,
+  "events": []
+}

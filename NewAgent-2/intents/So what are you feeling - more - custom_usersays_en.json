@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ae5c2522-3997-49fd-b9ca-04323a39edbe",
+    "data": [
+      {
+        "text": "Tell me more, is there something else other than ",
+        "userDefined": false
+      },
+      {
+        "text": "Congestion",
+        "alias": "symptoms",
+        "meta": "@symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " thats bothering you ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538254716
+  }
+]

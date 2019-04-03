@@ -1,0 +1,42 @@
+{
+  "id": "ea45f3cc-fb1e-4925-9b29-979e95e45213",
+  "name": "text 1 - What brings you in today",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "text1-Whatbringsyouintoday-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "94c866a4-828d-475a-8760-c358d60fec95",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I have been feeling sick."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538243314,
+  "fallbackIntent": false,
+  "events": []
+}

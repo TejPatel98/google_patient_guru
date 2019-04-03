@@ -1,0 +1,36 @@
+[
+  {
+    "id": "60a8cfab-d2e4-4db2-a18f-6eddf9a51517",
+    "data": [
+      {
+        "text": "Tell me more, is there something else other than ",
+        "userDefined": false
+      },
+      {
+        "text": "chest pain",
+        "alias": "symptoms",
+        "meta": "@symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " thats bothering you ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538254760
+  },
+  {
+    "id": "355ca059-8070-4921-8081-61544695937b",
+    "data": [
+      {
+        "text": "Tell me more. You have chest pain, but what other than that ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538254457
+  }
+]

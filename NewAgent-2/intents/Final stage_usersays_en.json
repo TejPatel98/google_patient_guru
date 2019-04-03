@@ -1,0 +1,92 @@
+[
+  {
+    "id": "121452e6-7df7-4313-b7a7-8b6c0bda6250",
+    "data": [
+      {
+        "text": "we will run few test and get back to you, but the symptoms show that you might have  ",
+        "userDefined": false
+      },
+      {
+        "text": "bruise",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538257675
+  },
+  {
+    "id": "82463b93-137e-447a-b389-26933fa362d9",
+    "data": [
+      {
+        "text": "we will run few test and get back to you, but the symptoms show that you might have ",
+        "userDefined": false
+      },
+      {
+        "text": "bug bite",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538257675
+  },
+  {
+    "id": "2d44c400-99d0-4b94-8c94-af9d3147a457",
+    "data": [
+      {
+        "text": "we will run few test and get back to you, but the symptoms show that you might have ",
+        "userDefined": false
+      },
+      {
+        "text": "common cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538257675
+  },
+  {
+    "id": "cf2e9a19-fd28-4b3e-a538-9f092cffac22",
+    "data": [
+      {
+        "text": "we will run few test and get back to you, but the symptoms show that you might have ",
+        "userDefined": false
+      },
+      {
+        "text": "Pulmonary embolism",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538257675
+  },
+  {
+    "id": "d71b7665-6292-4d9e-9ef5-4c4d713277a7",
+    "data": [
+      {
+        "text": "we will run few test and get back to you, but the symptoms show that you might have ",
+        "userDefined": false
+      },
+      {
+        "text": "Pnuemonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538257675
+  }
+]

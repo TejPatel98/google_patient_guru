@@ -1,0 +1,36 @@
+{
+  "id": "48f5ed35-01f6-40aa-9027-0eb5b96d65d2",
+  "parentId": "ea45f3cc-fb1e-4925-9b29-979e95e45213",
+  "rootParentId": "ea45f3cc-fb1e-4925-9b29-979e95e45213",
+  "name": "text 1 - What brings you in today - custom",
+  "auto": true,
+  "contexts": [
+    "text1-Whatbringsyouintoday-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "text1-Whatbringsyouintoday.text1-Whatbringsyouintoday-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A few days ago, it was raining really heavy and I was out with my friends. that\u0027s when I first started experiencing discomfort.",
+            "few days ago, I was at the cheer leading team practice. I got back home late that night. The next morning when I woke up, I started experiencing discomfort."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538270030,
+  "fallbackIntent": false,
+  "events": []
+}

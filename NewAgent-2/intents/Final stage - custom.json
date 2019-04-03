@@ -1,0 +1,38 @@
+{
+  "id": "5d637355-4698-4478-992d-dfbeb47c20a5",
+  "parentId": "34609378-ab4e-4ada-83ad-05d83edcf3fe",
+  "rootParentId": "34609378-ab4e-4ada-83ad-05d83edcf3fe",
+  "name": "Final stage - custom",
+  "auto": true,
+  "contexts": [
+    "Finalstage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Finalstage.Finalstage-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure. I\u0027ll go pick it up. Thank you ! Have a nice day !"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538257869,
+  "fallbackIntent": false,
+  "events": []
+}

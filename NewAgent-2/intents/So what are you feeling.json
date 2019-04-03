@@ -1,0 +1,51 @@
+{
+  "id": "58aa786c-14b8-49bd-9f82-d1194202c8f8",
+  "name": "So what are you feeling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Sowhatareyoufeeling-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fcf8c4fb-cd2d-4b42-8fea-060d079169f2",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I have a really bad cough",
+            "I have been experiencing swelling"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538271547,
+  "fallbackIntent": false,
+  "events": []
+}

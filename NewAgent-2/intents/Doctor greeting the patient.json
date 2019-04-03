@@ -1,0 +1,40 @@
+{
+  "id": "2a63eeda-3163-4d8a-bda7-d6f57866c741",
+  "name": "Doctor greeting the patient",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dcdaf5c5-b345-43ed-a97d-037677962a4d",
+          "required": false,
+          "dataType": "@lastname",
+          "name": "lastname",
+          "value": "$lastname",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "My name Is Mary Fairchild, Its nice to meet you too !",
+            "My name is Emily Buttler, its nice to meet you too !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538247915,
+  "fallbackIntent": false,
+  "events": []
+}

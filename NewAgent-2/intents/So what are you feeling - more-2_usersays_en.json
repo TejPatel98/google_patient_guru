@@ -1,0 +1,24 @@
+[
+  {
+    "id": "fa9ce127-99c6-4b1b-a72e-97928d954afc",
+    "data": [
+      {
+        "text": "what else other than ",
+        "userDefined": false
+      },
+      {
+        "text": "swelling",
+        "alias": "symptoms",
+        "meta": "@symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " is bothering you ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538256056
+  }
+]

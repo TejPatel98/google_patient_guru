@@ -1,0 +1,43 @@
+{
+  "id": "34609378-ab4e-4ada-83ad-05d83edcf3fe",
+  "name": "Final stage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Finalstage-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "161cfc99-d7e4-4c30-860b-75d1800c7d3e",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, I think I should take care about my outdoor activities from next time around"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538257675,
+  "fallbackIntent": false,
+  "events": []
+}

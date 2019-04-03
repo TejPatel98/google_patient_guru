@@ -1,0 +1,55 @@
+{
+  "id": "ea941ccc-fe8c-4616-94cc-cf12c38ef2ed",
+  "parentId": "58aa786c-14b8-49bd-9f82-d1194202c8f8",
+  "rootParentId": "58aa786c-14b8-49bd-9f82-d1194202c8f8",
+  "name": "So what are you feeling - more",
+  "auto": true,
+  "contexts": [
+    "Sowhatareyoufeeling-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Sowhatareyoufeeling.Sowhatareyoufeeling-more",
+      "affectedContexts": [
+        {
+          "name": "Sowhatareyoufeeling-more-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ea099fe5-763b-4f3e-ae1d-0bc9aa77975f",
+          "dataType": "@symptoms",
+          "name": "symptoms",
+          "value": "$symptoms",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Yes, I am experiencing chest pain as well",
+            "yes, I am experiencing congestion as well"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538254572,
+  "fallbackIntent": false,
+  "events": []
+}
