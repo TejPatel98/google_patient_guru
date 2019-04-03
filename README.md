@@ -1,5 +1,7 @@
 # Google Patient Guru 
 
+![]{google_patient_guru/GPG-logo.png}
+
 This project was worked on for VolHacks 2018 Hackathon. 
 
 The platform used was Google Home. We made it act as a patient so that med-school students dont need to rely on actors to practice their diagnostic skills. They can even practice at home and get better at it.
