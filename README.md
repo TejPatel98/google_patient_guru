@@ -1,6 +1,6 @@
 # Google Patient Guru 
 
-![](google_patient_guru/GPG-logo.png)
+![](https://github.com/TejPatel98/google_patient_guru/blob/master/GPG-logo.png)
 
 This project was worked on for VolHacks 2018 Hackathon. 
 
