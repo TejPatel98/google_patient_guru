@@ -23,3 +23,4 @@ The doctor (user) gets to practice the diagnostics skills such as:
  - Akash Pansuriya 
  - Dipak Darbar
  
+[Link to Devpost](https://devpost.com/software/google-patient-guru)
